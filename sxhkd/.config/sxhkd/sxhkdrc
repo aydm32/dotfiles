@@ -1,0 +1,30 @@
+alt + F1  
+   pamixer -t 
+alt + F2
+   pamixer -d 10
+alt + F3 
+   pamixer -i 10
+alt + F4
+   chromium
+alt + shift + F5
+  doas poweroff
+alt + F6
+  Telegram
+alt + F11
+  brightnessctl s 5%-
+alt + F12
+  brightnessctl s +5%
+alt + F7
+  thunar ~/Downloads
+alt + F8
+  maim ~/Screenshots/-$(date +%F-%T).png
+alt + F9
+ ~/.scripts/youtube_download.sh
+alt + F10
+ ~/.scripts/Scripts/audio_download.sh
+alt + shift + F12
+ redshift -O 4500
+alt + F5
+ thunar
+alt + shift + F6
+ doas reboot 

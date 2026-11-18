@@ -1,0 +1,26 @@
+# Suckless build outputs
+*.o
+*.orig
+*.rej
+suckless/.config/suckless/dwm/dwm
+suckless/.config/suckless/st/st
+suckless/.config/suckless/dmenu/dmenu
+suckless/.config/suckless/dmenu/stest
+suckless/.config/suckless/slstatus/slstatus
+
+# Backups and editor junk
+*.bak
+*.swp
+*~
+.DS_Store
+
+# Secrets
+.env
+*.key
+*.pem
+.secrets
+id_rsa*
+id_ed25519*
+
+# App state that gets rewritten at runtime
+mpv/.config/mpv/watch_later/
