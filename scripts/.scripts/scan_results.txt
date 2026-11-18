@@ -1,0 +1,106 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2025-10-23 13:57 +0100
+Nmap scan report for 198.168.0.0
+Host is up (0.12s latency).
+Nmap scan report for 198.168.0.254
+Host is up (0.12s latency).
+Nmap scan report for cgi.se (198.168.2.100)
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.1
+Host is up (0.12s latency).
+Nmap scan report for 198.168.5.2
+Host is up (0.12s latency).
+Nmap scan report for 198.168.5.3
+Host is up (0.12s latency).
+Nmap scan report for 198.168.5.4
+Host is up (0.13s latency).
+Nmap scan report for webforum.meteomedia.com (198.168.5.16)
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.18
+Host is up (0.13s latency).
+Nmap scan report for pegasusserver02.pelmorex.com (198.168.5.19)
+Host is up (0.13s latency).
+Nmap scan report for vcenter.operation.pelmorex.com (198.168.5.22)
+Host is up (0.12s latency).
+Nmap scan report for unlock.pelmorex.com (198.168.5.23)
+Host is up (0.13s latency).
+Nmap scan report for xn--mtomdia-byabc.ca (198.168.5.28)
+Host is up (0.13s latency).
+Nmap scan report for rancher.pelmorex.com (198.168.5.46)
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.47
+Host is up (0.13s latency).
+Nmap scan report for tlm-dqs.pelmorex.com (198.168.5.54)
+Host is up (0.13s latency).
+Nmap scan report for tlm-oak.pelmorex.com (198.168.5.55)
+Host is up (0.13s latency).
+Nmap scan report for ssp-oak.pelmorex.com (198.168.5.60)
+Host is up (0.13s latency).
+Nmap scan report for appfwgw1.pelmorex.com (198.168.5.74)
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.89
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.90
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.97
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.98
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.99
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.100
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.102
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.103
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.112
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.113
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.123
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.124
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.126
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.127
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.129
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.130
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.141
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.142
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.146
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.147
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.149
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.150
+Host is up (0.13s latency).
+Nmap scan report for connecttv1.pelmorex.com (198.168.5.151)
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.163
+Host is up (0.13s latency).
+Nmap scan report for ccbencoder2.pelmorex.com (198.168.5.169)
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.170
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.174
+Host is up (0.12s latency).
+Nmap scan report for 198.168.5.175
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.185
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.186
+Host is up (0.13s latency).
+Nmap scan report for 198.168.5.194
+Host is up (0.13s latency).
+Nmap scan report for 198.168.8.1
+Host is up (0.14s latency).
+Nmap scan report for 198.168.8.6
+Host is up (0.14s latency).
+Nmap done: 4096 IP addresses (52 hosts up) scanned in 38.23 seconds

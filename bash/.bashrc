@@ -30,11 +30,12 @@ alias connect='doas nmcli device wifi connect'
 
 export EDITOR=nvim
 #PS1='[\u@\h \W]\$ '
-PS1='\[\e[38;5;250m\][\u@\h \W]     \[\e[0m\] '
-
+#PS1='\[\e[38;5;250m\][\u@\h \W]     \[\e[0m\] '
 # Created by `pipx` on 2025-10-27 09:57:36
 export PATH="$PATH:/home/geto/.local/bin"
 export PICO_SDK_PATH=~/pico/pico-sdk
 export PICO_SDK_PATH=~/pico/pico-sdk
 export PATH="$HOME/.local/bin:$PATH"
 export PATH="$HOME/opt/gcc-arm-none-eabi-10.3-2021.10/bin:$PATH"
+
+[ -f ~/.scripts/gruvbox.sh ] && . ~/.scripts/gruvbox.sh
