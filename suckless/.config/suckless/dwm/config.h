@@ -56,6 +56,7 @@ static const Layout layouts[] = {
 
 /* key definitions */
 #define MODKEY Mod1Mask
+#define SUPER Mod4Mask
 #define TAGKEYS(KEY,TAG) \
 	{ MODKEY,                       KEY,      view,           {.ui = 1 << TAG} }, \
 	{ MODKEY|ControlMask,           KEY,      toggleview,     {.ui = 1 << TAG} }, \
@@ -110,12 +111,13 @@ static const Key keys[] = {
 	TAGKEYS(                        XK_8,                      7)
 	TAGKEYS(                        XK_9,                      8)
 	{ MODKEY|ShiftMask,             XK_q,      quit,           {0}},
-	{ MODKEY, XK_c, spawn, SHCMD("~/.local/bin/pycalc") },
-	{ MODKEY, XK_o, spawn, SHCMD("openlink") },
+	{ SUPER, XK_c, spawn, SHCMD("~/.local/bin/pycalc") },
+	{ SUPER, XK_l, spawn, SHCMD("openlink") },
+	{ SUPER, XK_w, spawn, SHCMD("openword") },
 	{ 0,           XF86XK_Display, spawn, SHCMD("projector mirror") },
-	{ MODKEY|ShiftMask, XK_F8,      spawn, SHCMD("projector mirror") },
-	{ MODKEY|ShiftMask, XK_F9,   spawn, SHCMD("projector extend") },
-	{ MODKEY|ShiftMask, XK_F10,   spawn, SHCMD("projector off") },
+	{ SUPER, XK_F8,      spawn, SHCMD("projector mirror") },
+	{ SUPER, XK_F9,   spawn, SHCMD("projector extend") },
+	{ SUPER, XK_F10,   spawn, SHCMD("projector off") },
 };
 
 /* button definitions */

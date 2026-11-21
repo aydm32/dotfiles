@@ -60,7 +60,7 @@ __gb_prompt() {
   # Layout:
   #   ╭─ geto@void ─ ~/Code/esp ─ [main ●↑1] ─ 14:02
   #   ╰─❯
-  PS1="\n${cDG}╭─${cU}\u${cG}@${cH}\h${cDG}─${cP}\w${git_seg}${cDG}─${cT}\A${reset}\n${cDG}╰─${arrow}❯${reset} "
+  PS1="${cDG}╭─${cU}\u${cG}@${cH}\h${cDG}─${cP}\w${git_seg}${cDG}─${cT}\A${reset}\n${cDG}╰─${arrow}❯${reset} "
 }
 
 PROMPT_COMMAND=__gb_prompt

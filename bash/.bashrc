@@ -28,6 +28,8 @@ alias wifi='nmcli d wifi list'
 alias connect='doas nmcli device wifi connect'
 #alias Robot='. $HOME/esp/robot_fight/external_control/command.sh'
 
+alias arab='trans -b -no-ansi :ar'
+
 export EDITOR=nvim
 #PS1='[\u@\h \W]\$ '
 #PS1='\[\e[38;5;250m\][\u@\h \W]     \[\e[0m\] '
